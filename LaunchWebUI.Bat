@@ -1,0 +1,4 @@
+@ECHO OFF
+Set CUDA_VISIBLE_DEVICES=0
+python src/webui.py
+@ECHO ON
